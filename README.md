@@ -9,7 +9,6 @@ This repository contains an end-to-end data analysis project based on Sample Sup
 - `Superstore_Sales.xls`: Raw dataset used for analysis. Contains sales, profit, order, and customer data across U.S. states and categories.
 - `Superstore_Sales_Analysis_Dashboard.pbix`: Power BI dashboard file showcasing insights derived from the dataset.
 -  Preview image of the Power BI dashboard
-  ![Uploading image.png…]()
 
 
 ---
